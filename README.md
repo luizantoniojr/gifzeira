@@ -1,4 +1,4 @@
-# todolist
+# GIFzeira
 
 ## Project setup
 ```
