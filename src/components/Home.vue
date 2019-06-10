@@ -34,7 +34,7 @@
           </v-layout>
         </v-container>
       </v-card>
-      <v-flex md2>
+      <v-flex md2 mt-3>
         <v-btn small color="primary" dark @click="buscarMais">Buscar mais</v-btn>
       </v-flex>
     </v-layout>
